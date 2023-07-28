@@ -8,7 +8,7 @@ la matrícula en línea ofrece ventajas significativas en términos de accesibil
 
 INGENIERÍA DE SOFTWARE (GRUPO - 1)
 
-Bienvenido/a al repositorio de Matrícula en Línea por Materias. Este proyecto es una aplicación web que facilita el proceso de matrícula en linea por materias mediante una plataforma en línea intuitiva y eficiente.Queremos facilitarte el proceso de inscripción y brindarte la comodidad de poder matricularte en tus cursos desde cualquier lugar
+Bienvenido/a al repositorio de Matrícula en Línea por Materias. Este proyecto es una aplicación web que facilita el proceso de matrícula en linea por materias mediante una plataforma en línea intuitiva y eficiente.Queremos facilitarte el proceso de inscripción y brindarte la comodidad de poder matricularte en tus cursos desde cualquier lugar con acceso
 
 ## Descripción:
 La matrícula en las universidades es un proceso crucial para los estudiantes, pero a menudo puede ser complicado y tedioso. La aplicación Matrícula en Línea por Materias tiene como objetivo simplificar este proceso, permitiendo a los estudiantes realizar su matrícula de manera más rápida y sencilla.
