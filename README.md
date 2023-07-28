@@ -38,6 +38,7 @@ Integrantes
 ¡Las contribuciones son bienvenidas y apreciadas! Si deseas mejorar esta aplicación o corregir problemas existentes, por favor, siéntete libre de hacer un fork del repositorio y enviar tus pull requests.
 
 ## Repositorio de proyectos anteriores 
-https://github.com/Stalin21032001/APP-SISTEMEDU
+
+APP-SISTEMEDU  ( https://github.com/Stalin21032001/APP-SISTEMEDU )
 
 ¡Gracias por elegir Matrícula en Línea por Materias! Esperamos que esta plataforma sea de gran ayuda para tu experiencia académica.
