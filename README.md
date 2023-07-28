@@ -24,7 +24,7 @@ Al lado derecho podemos ver nuestro panel de Listas de Gastos en la cual nuestro
 Y por último, podemos ver que nos registramos en las materias que son Álgebra Lineal, Gestión Empresarial, Machine Learning e Ingeniería de Software, la cual todos tienen precios diferentes por materia y en nuestro campo de restante podemos observar que nos hace un calculo de cada uno de ellos y nos resta el valor restante.
 ![image](https://github.com/Stalin21032001/matriculamateria/assets/105472176/b86111c9-f998-49d4-a629-6711a754142b)
 
-Estudiantes
+
 1. Ericsson Aguirre -> BACKEND - FRONTEND
 2. Stalin Cacuango -> BACKEND
 3. Ronny Michilena -> BACKEND - FRONTEND
