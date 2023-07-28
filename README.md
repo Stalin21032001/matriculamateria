@@ -1,7 +1,7 @@
 # MATRICULA-EN-LINEA-POR-MATERIAS
 Universidad Politecnica Salesiana
 
-La importancia de la matrícula en línea radica en diversos factores que benefician tanto a los estudiantes como a las instituciones educativas:Accesibilidad,Comodidad y conveniencia,Flexibilidad horaria,Información detallada,
+La importancia de la matrícula en línea radica en diversos factores que benefician tanto a los estudiantes como a las instituciones educativas:Accesibilidad,Comodidad y conveniencia,Flexibilidad horaria,Información detallada,Reducción de papel y recursos
 
 INGENIERÍA DE SOFTWARE (GRUPO - 1)
 
