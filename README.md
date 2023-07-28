@@ -1,5 +1,5 @@
 # MATRICULA-EN-LINEA-POR-MATERIAS
- Universidad Politecnica Salesiana
+Universidad Politecnica Salesiana
 
 INGENIERÍA DE SOFTWARE (GRUPO - 1)
 
