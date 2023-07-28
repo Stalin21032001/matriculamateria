@@ -37,4 +37,6 @@ Integrantes
 ## Contribuciones:
 ¡Las contribuciones son bienvenidas y apreciadas! Si deseas mejorar esta aplicación o corregir problemas existentes, por favor, siéntete libre de hacer un fork del repositorio y enviar tus pull requests.
 
+## Repositorio de proyectos anteriores 
+
 ¡Gracias por elegir Matrícula en Línea por Materias! Esperamos que esta plataforma sea de gran ayuda para tu experiencia académica.
