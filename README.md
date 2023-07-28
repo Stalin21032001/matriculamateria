@@ -37,7 +37,12 @@ Integrantes
 4. Mauricio Vega -> BACKEND
 
 # Ejecución (Angular):
+>npm install -g @angular/cli
+>npm install cors
 file:nombreDirectorio/nombreArchivo>ng serve o ng serve -o
+# Si no funciona, limpiar el caché de paquetes: 
+>npm cache clean --force
+# (Volvemos a repetir los pasos anteriores para levantar el servicio de Angular)
 
 ## Contribuciones:
 ¡Las contribuciones son bienvenidas y apreciadas! Si deseas mejorar esta aplicación o corregir problemas existentes, por favor, siéntete libre de hacer un fork del repositorio y enviar tus pull requests.
