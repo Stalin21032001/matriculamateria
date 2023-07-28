@@ -1,12 +1,11 @@
 # MATRICULA-EN-LINEA-POR-MATERIAS
 Universidad Politecnica Salesiana
 
+INGENIERÍA DE SOFTWARE (GRUPO - 1)
 
 La importancia de la matrícula en línea radica en diversos factores que benefician tanto a los estudiantes como a las instituciones educativas:Accesibilidad,Comodidad y conveniencia,Flexibilidad horaria,Información detallada,Reducción de papel y recursos
 
 la matrícula en línea ofrece ventajas significativas en términos de accesibilidad, comodidad, flexibilidad, precisión y eficiencia. Es una herramienta valiosa para mejorar la experiencia educativa y facilitar el proceso de inscripción para los estudiantes y las instituciones educativas por igual.
-
-INGENIERÍA DE SOFTWARE (GRUPO - 1)
 
 Bienvenido/a al repositorio de Matrícula en Línea por Materias. Este proyecto es una aplicación web que facilita el proceso de matrícula en linea por materias mediante una plataforma en línea intuitiva y eficiente.Queremos facilitarte el proceso de inscripción y brindarte la comodidad de poder matricularte en tus cursos desde cualquier lugar con acceso a internet.
 
