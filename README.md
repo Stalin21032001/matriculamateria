@@ -2,6 +2,7 @@
 Universidad Politecnica Salesiana
 
 INGENIERÍA DE SOFTWARE (GRUPO - 1)
+Bienvenidos
 
 La importancia de la matrícula en línea radica en diversos factores que benefician tanto a los estudiantes como a las instituciones educativas:Accesibilidad,Comodidad y conveniencia,Flexibilidad horaria,Información detallada,Reducción de papel y recursos
 
