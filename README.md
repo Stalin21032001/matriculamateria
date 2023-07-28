@@ -36,6 +36,7 @@ Integrantes
 3. Ronny Michilena -> BACKEND - FRONTEND
 4. Mauricio Vega -> BACKEND
 
+
 ## Contribuciones:
 ¡Las contribuciones son bienvenidas y apreciadas! Si deseas mejorar esta aplicación o corregir problemas existentes, por favor, siéntete libre de hacer un fork del repositorio y enviar tus pull requests.
 
