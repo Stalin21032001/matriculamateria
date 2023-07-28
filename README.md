@@ -5,6 +5,7 @@ Universidad Politecnica Salesiana
 
 **Bienvenidos**
 
+
 La importancia de la matrícula en línea radica en diversos factores que benefician tanto a los estudiantes como a las instituciones educativas:Accesibilidad,Comodidad y conveniencia,Flexibilidad horaria,Información detallada,Reducción de papel y recursos
 
 la matrícula en línea ofrece ventajas significativas en términos de accesibilidad, comodidad, flexibilidad, precisión y eficiencia. Es una herramienta valiosa para mejorar la experiencia educativa y facilitar el proceso de inscripción para los estudiantes y las instituciones educativas por igual.
